@@ -1,0 +1,31 @@
+c:\users\salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Codiodes Freight and Logistics Management.exe.config
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\Codiodes Freight and Logistics Management.csprojResolveAssemblyReference.cache
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\MainWindow.g.cs
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\App.g.cs
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\Codiodes Freight and Logistics Management_MarkupCompile.cache
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Codiodes Freight and Logistics Management.exe
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Codiodes Freight and Logistics Management.pdb
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\MainWindow.baml
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\Codiodes Freight and Logistics Management.g.resources
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\Codiodes_Freight_and_Logistics_Management.Properties.Resources.resources
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\Codiodes Freight and Logistics Management.csproj.GenerateResource.Cache
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\Codiodes Freight and Logistics Management.exe
+C:\Users\Salman\documents\visual studio 2012\Projects\Codiodes Freight and Logistics Management\Codiodes Freight and Logistics Management\obj\Debug\Codiodes Freight and Logistics Management.pdb
